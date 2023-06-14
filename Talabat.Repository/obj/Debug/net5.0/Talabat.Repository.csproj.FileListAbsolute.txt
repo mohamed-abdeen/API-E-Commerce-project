@@ -1,0 +1,15 @@
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.deps.json
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.dll
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.pdb
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Core.dll
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\bin\Debug\net5.0\Talabat.Core.pdb
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.AssemblyInfo.cs
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.CopyComplete
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.dll
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\refint\Talabat.Repository.dll
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.pdb
+C:\Users\abdeen\source\repos\Talabat.APIs.Solution\Talabat.Repository\obj\Debug\net5.0\ref\Talabat.Repository.dll
